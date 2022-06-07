@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
+
+
+li {
+
+    list-style: none;
+
+}
+
+#cabecalho {
+
+    border: solid 1px blue;
+
+
+}
+
+#logo {
+
+    background: red;
+    text-align: center;
+}
+
+#icone {
+    width: 8px;
+    height: 8px;
+    float: left;
+    position: left;
+    position: -webkit-sticky;
+}
+
+#menu-cabecalho {
+    width: 800px;
+    margin: 0px auto;
+}
+
+#menu-cabecalho li {
+
+    float: right;
+
+}
+
+#menu-cabecalho a {
+
+    padding: 5px 2em;
+    border: solid 1px;
+}
+
+#menu-cabecalho a:hover {
+
+    background: red;
+    color: black;
+}
+
+#area-principal {
+    margin: 5% auto;
+    width: 80%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+}
+
+.clear {
+
+    clear: both;
+}
+
+.carrossel {
+    display: inline-block;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 1em;
+    background: red;
+}
+
+#menu-cabecalho li {
+    float: left;
+}
+
+.footer {
+    background: red;
+    text-align: center;
+    color: black;
+}
+
+#artigos {
+    color: red;
+}
+
+#inicio {
+    color: red;
+    display: inline-block;
+    text-align: center;
+
+}
+
+#animes{
+    color: red;
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+   
+}
